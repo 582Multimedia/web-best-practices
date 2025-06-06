@@ -2,6 +2,9 @@
 
 Best web practices for 582 Multimedia students
 
+## links to best practices
+- [mobile first](mobile-first.md)
+
 ## VS CODE PLUGINS
 
 - [SFTP (NEW & WORKING!)](https://marketplace.visualstudio.com/items?itemName=Natizyskunk.sftp)
