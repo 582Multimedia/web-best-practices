@@ -46,3 +46,8 @@ Check out these articles too:
 
 - [Mobile First Helps with Big Issues](https://www.lukew.com/ff/entry.asp?1117)
 - [How to Design Components for Mobile First: a video](https://www.lukew.com/ff/entry.asp?1912)
+
+## if you're doing this, you're doing it wrong
+
+- (max-width: 900px)
+- Figma > #frame > starting with > desktop > !!!
