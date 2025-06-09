@@ -38,6 +38,18 @@ When designing websites we design first for the mobile or phone version of the s
 
     bonus video tutorial [weather app design in Figma](https://youtu.be/bAV-_3B8OdY?si=0kiqFuGZoUKpKL_A)
 
+## make boxes, put things in boxes
+
+The basic strategy is to make a bunch of boxes in a grid and put content in those boxes.
+
+- Put titles in headings (h1, h2, h3, etc).
+- Put navigation in nav.
+- Put the page header in header
+- Put text in paragraphs (p)
+- Put images in figure > img + figcaption.
+  - set img to be width: 100%;
+- Organize content into articles & sections
+
 ## where does mobile first come from?
 
 Luke Wroblewski was the first to [coin the phrase in articles](https://www.lukew.com/ff/entry.asp?933) and then his book, [Mobile First](https://www.lukew.com/resources/mobile_first.asp)
