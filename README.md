@@ -4,6 +4,7 @@ Best web practices for 582 Multimedia students
 
 ## links to best practices
 - [mobile first](mobile-first.md)
+- [responsive](responsive.md)
 
 ## VS CODE PLUGINS
 
