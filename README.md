@@ -1,4 +1,4 @@
-# web-best-practices
+# :bulb: Web Best Practices
 
 Best web practices for 582 Multimedia students
 
