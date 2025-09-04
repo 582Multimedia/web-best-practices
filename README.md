@@ -17,6 +17,11 @@ Best web practices for 582 Multimedia students
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 
+## Who or what is Emmet?
+
+- [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+
+
 ### Turn On Native Bracket Pair Colorization and Linked Editing
 
 To turn on the native bracket pair colorizer and linked editing.
