@@ -15,6 +15,7 @@ Best web practices for 582 Multimedia students
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [NBSP highlighter](https://marketplace.visualstudio.com/items?itemName=viktorzetterstrom.non-breaking-space-highlighter)
 - [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
+- [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 
 ### Turn On Native Bracket Pair Colorization and Linked Editing
 
